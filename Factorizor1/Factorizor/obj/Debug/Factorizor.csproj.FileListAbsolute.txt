@@ -1,0 +1,16 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Factorizor\Start\Factorizor\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\factorizor\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\factorizor\Factorizor\obj\Debug\Factorizor.csprojResolveAssemblyReference.cache
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\factorizor\Factorizor\bin\Debug\Factorizor.exe
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\factorizor\Factorizor\bin\Debug\Factorizor.pdb
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\factorizor\Factorizor\obj\Debug\Factorizor.exe
+C:\Users\sflem\Documents\steve-fleming-individual-dashwork\factorizor\Factorizor\obj\Debug\Factorizor.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor\Factorizor\obj\Debug\Factorizor.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor\Factorizor\obj\Debug\Factorizor.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor1\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor1\Factorizor\bin\Debug\Factorizor.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor1\Factorizor\bin\Debug\Factorizor.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor1\Factorizor\obj\Debug\Factorizor.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor1\Factorizor\obj\Debug\Factorizor.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor1\Factorizor\obj\Debug\Factorizor.pdb
